@@ -33,5 +33,8 @@ Compilação dos dados obtidos em pesquisas realizadas com usuárioso, utilizado
 ### 📋 Relatórios de Sprint
 Pasta contendo os relatórios de acompanhamento de cada sprint do projeto, registrando o progresso, entregas, impedimentos e retrospectivas da equipe.
 
+### 📋 Vídeo e Prints de demonstração do APP
+Link para acesso do vídeo de demonstração do APP em DEMO V1.0: https://youtu.be/PW_X8Sy2Ars
+
 ### 🏁 Termo de Encerramento de Projeto
 Documento formal que atesta a conclusão do projeto ByteReports, com as entregas realizadas, lições aprendidas e aceite das partes envolvidas.
